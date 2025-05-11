@@ -1,4 +1,3 @@
-# ISO-27001-Compliance-Audit-Simulation
 # ✅ ISO 27001 Compliance Audit Simulation
 
 This project simulates an internal audit against selected ISO/IEC 27001 controls. It provides a realistic hands-on exercise in reviewing control effectiveness, identifying gaps, and recommending improvements for information security compliance.
