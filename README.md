@@ -6,10 +6,10 @@ This project simulates an internal audit against selected ISO/IEC 27001 controls
 
 ## 🎯 Project Objectives
 
-- Review selected ISO 27001 Annex A controls
-- Simulate an audit process using a control checklist
-- Identify compliance gaps and document findings
-- Provide actionable remediation recommendations
+- Review selected ISO 27001 Annex A controls  
+- Simulate an audit process using a control checklist  
+- Identify compliance gaps and document findings  
+- Provide actionable remediation recommendations  
 
 ---
 
@@ -17,8 +17,8 @@ This project simulates an internal audit against selected ISO/IEC 27001 controls
 
 | File | Description |
 |------|-------------|
-| `ISO27001_Audit_Checklist.xlsx` | Audit checklist with control questions, evidence, and findings |
-| `ISO27001_Audit_Report.docx` | Summary report with key findings and recommendations |
+| [`ISO27001_Audit_Checklist.xlsx`](./ISO27001_Audit_Checklist.xlsx) | Audit checklist with control questions, evidence, and findings |
+| [`ISO27001_Audit_Report.docx`](./ISO27001_Audit_Report.docx) | Summary report with key findings and recommendations |
 
 ---
 
@@ -36,29 +36,29 @@ This project simulates an internal audit against selected ISO/IEC 27001 controls
 
 ## 📌 Sample Findings
 
-- ❌ **Privileged Access Rights**: Access reviews are not conducted regularly.
-- ❌ **Logging and Monitoring**: No evidence of consistent log review practices.
+- ❌ **Privileged Access Rights**: Access reviews are not conducted regularly.  
+- ❌ **Logging and Monitoring**: No evidence of consistent log review practices.  
 
 ---
 
 ## 💡 Recommendations
 
-- Implement a scheduled privileged access review and maintain approval logs.
-- Establish and document a log review process with audit trails.
-- Maintain documentation for all compliance controls.
+- Implement a scheduled privileged access review and maintain approval logs.  
+- Establish and document a log review process with audit trails.  
+- Maintain documentation for all compliance controls.  
 
 ---
 
 ## 🧰 Tools Used
 
-- Microsoft Excel – for control checklist
-- Microsoft Word – for audit report
-- ISO/IEC 27001:2022 Framework
+- Microsoft Excel – for control checklist  
+- Microsoft Word – for audit report  
+- ISO/IEC 27001:2022 Framework  
 
 ---
 
 ## 🧠 Skills Demonstrated
 
-- GRC audit preparation and reporting
-- Understanding ISO 27001 controls
-- Documentation and compliance analysis
+- GRC audit preparation and reporting  
+- Understanding ISO 27001 controls  
+- Documentation and compliance analysis  
